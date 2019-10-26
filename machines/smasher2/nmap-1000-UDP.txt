@@ -1,0 +1,31 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-10-24 16:54 CDT
+NSE: Loaded 148 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 16:54
+Completed NSE at 16:54, 0.00s elapsed
+Initiating NSE at 16:54
+Completed NSE at 16:54, 0.00s elapsed
+Initiating Ping Scan at 16:54
+Scanning 10.10.10.135 [4 ports]
+Completed Ping Scan at 16:54, 0.14s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 16:54
+Completed Parallel DNS resolution of 1 host. at 16:54, 0.00s elapsed
+Initiating UDP Scan at 16:54
+Scanning 10.10.10.135 [1000 ports]
+Increasing send delay for 10.10.10.135 from 0 to 50 due to max_successful_tryno increase to 4
+Increasing send delay for 10.10.10.135 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 10.10.10.135 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 10.10.10.135 from 200 to 400 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 10.10.10.135 from 400 to 800 due to 11 out of 11 dropped probes since last increase.
+UDP Scan Timing: About 4.92% done; ETC: 17:04 (0:09:58 remaining)
+UDP Scan Timing: About 7.90% done; ETC: 17:07 (0:11:51 remaining)
+UDP Scan Timing: About 14.76% done; ETC: 17:08 (0:12:31 remaining)
+UDP Scan Timing: About 22.50% done; ETC: 17:09 (0:11:46 remaining)
+UDP Scan Timing: About 28.71% done; ETC: 17:09 (0:10:58 remaining)
+UDP Scan Timing: About 34.95% done; ETC: 17:09 (0:10:10 remaining)
+UDP Scan Timing: About 40.25% done; ETC: 17:09 (0:09:23 remaining)
+UDP Scan Timing: About 45.75% done; ETC: 17:10 (0:08:33 remaining)
+UDP Scan Timing: About 51.16% done; ETC: 17:10 (0:07:45 remaining)
+UDP Scan Timing: About 56.46% done; ETC: 17:10 (0:06:55 remaining)
+UDP Scan Timing: About 61.88% done; ETC: 17:10 (0:06:05 remaining)
+UDP Scan Timing: About 67.09% done; ETC: 17:10 (0:05:15 remaining)
